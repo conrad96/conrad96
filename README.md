@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Conrad Mugisha!
 
-<!--
-**conrad96/conrad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Backend Engineer at Signalytic, where we focus on building digital health infrastructure for remote health facilities.
 
-Here are some ideas to get you started:
+I specialize in backend engineering, with a strong focus on:
+- **Microservice Architecture**  
+- **Scaling Systems**  
+- **Database Design and Optimization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+I'm always looking to grow and enhance my skills. currently looking into:
+- Building scalable and resilient microservices.
+- Mastering distributed systems.
+- Exploring database technologies to improve system efficiency.
+
+### Collaboration
+I'm actively seeking opportunities to collaborate on projects that:
+- Solve real-world problems.
+- Provide value to people and businesses.
+If you have an exciting project or idea, feel free to reach out!
+
+### Find Me Online 🌐
+- 💬 Connect with me on **X**: [@conradmugisha](https://x.com/conradmugisha)
+- 🧑‍💻 Check out my **StackOverflow** contributions: [@conrad96](https://stackoverflow.com/users/7421360/conrad96)
+- 📚 Read my **Blogs**:
+  - [Hashnode](https://hashnode.com/@conrad96)
+  - [DEV Community](https://dev.to/conrad96)
+  - [Medium](https://medium.com/@conradmugisha)
