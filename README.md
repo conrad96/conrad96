@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Conrad Mugisha!
 
 ### About Me
-I'm a Backend Engineer at Signalytic, where we focus on building digital health infrastructure for remote health facilities.
 
 I specialize in backend engineering, with a strong focus on:
 - **Microservice Architecture**  
