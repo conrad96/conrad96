@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Conrad Mugisha!
+# Hi there, I'm Conrad Mugisha!
 
 ### About Me
 
@@ -20,9 +20,8 @@ I'm actively seeking opportunities to collaborate on projects that:
 If you have an exciting project or idea, feel free to reach out!
 
 ### Find Me Online 🌐
-- 💬 Connect with me on **X**: [@conradmugisha](https://x.com/conradmugisha)
-- 🧑‍💻 Check out my **StackOverflow** contributions: [@conrad96](https://stackoverflow.com/users/7421360/conrad96)
-- 📚 Read my **Blogs**:
+- 🧑‍💻  **StackOverflow** contributions: [@conrad96](https://stackoverflow.com/users/7421360/conrad96)
+- 📚  **Blogs**:
   - [Hashnode](https://hashnode.com/@conrad96)
   - [DEV Community](https://dev.to/conrad96)
   - [Medium](https://medium.com/@conradmugisha)
